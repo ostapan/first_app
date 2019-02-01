@@ -28,3 +28,4 @@ doc/
 .DS_store
 .idea
 .secret
+config.ru
